@@ -1,5 +1,5 @@
 #TabPHP
-It is a framework base on ThinkPHP 3.2, combined with AngularJS, BootStrap and Bower.  
+It is a framework base on ThinkPHP 3.2, combined with AngularJS, and BootStrap.  
   
 ## Modules
 Usually, the modules are:  
@@ -15,3 +15,6 @@ Usually, the modules are:
         'URL_HTML_SUFFIX'	=> '',
         'TMPL_ENGINE_TYPE'	=> 'PHP',
         'DEFAULT_THEME'		=> 'bootstrap'
+  
+## Toolkit
+1. Bower, used to install frontend packages
