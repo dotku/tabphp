@@ -12,6 +12,6 @@ Usually, the modules are:
 2. For morden URL, we turn the SUFFIX to blank.  
 3. I setup bootstrap as default theme in a folder, in case you want to customize the theme.  
   
-        'URL_HTML_SUFFIX' =>'',
-        'TMPL_ENGINE_TYPE' =>'PHP',
-        'DEFAULT_THEME'    =>    'bootstrap'
+        'URL_HTML_SUFFIX'      => '',
+        'TMPL_ENGINE_TYPE'    => 'PHP',
+        'DEFAULT_THEME'         => 'bootstrap'
